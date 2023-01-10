@@ -126,3 +126,4 @@ C:\Users\Hassen\Desktop\.Net\fwd--cabinet\obj\Debug\net5.0\FWD.dll
 C:\Users\Hassen\Desktop\.Net\fwd--cabinet\obj\Debug\net5.0\ref\FWD.dll
 C:\Users\Hassen\Desktop\.Net\fwd--cabinet\obj\Debug\net5.0\FWD.pdb
 C:\Users\Hassen\Desktop\.Net\fwd--cabinet\obj\Debug\net5.0\FWD.genruntimeconfig.cache
+C:\Users\Hassen\Desktop\.Net\fwd--cabinet\obj\Debug\net5.0\FWD.csproj.AssemblyReference.cache
